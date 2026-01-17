@@ -1,0 +1,36 @@
+{
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "off"
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.suggest.showWords": false,
+  "editor.suggest.showKeywords": false,
+  "editor.suggest.showSnippets": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.tabCompletion": "off",
+  "editor.suggest.enabled": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.suggestSelection": "first",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "cursor.cpp.disabledLanguages": ["*"],
+  "editor.overtypeMode": false,
+  "[python]": {
+    "editor.overtypeMode": false
+  },
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "off",
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true,
+  "editor.autoIndent": "full",
+  "editor.renderWhitespace": "none",
+  "editor.snippetSuggestions": "none"
+}

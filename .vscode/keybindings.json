@@ -1,0 +1,7 @@
+[
+  {
+    "key": "insert",
+    "command": "-editor.action.toggleOvertypeMode",
+    "when": "editorTextFocus && !editorReadonly"
+  }
+]
